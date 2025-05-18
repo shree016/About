@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year BCA student with a strong foundation in Core Java, currently advancing in the MERN stack and cloud computing. Passionate about software development, I thrive on challenges and continuous learning. My goal is to contribute to innovative and impactful projects in the tech industry..
+I am a final-year BCA student with a strong foundation in Core Java, currently advancing in the MERN stack and cloud computing. Passionate about software development, I thrive on challenges and continuous learning. My goal is to contribute to innovative and impactful projects in the tech industry...
 
 
 ## 🌐 Socials:
