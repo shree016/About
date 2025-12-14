@@ -8,7 +8,7 @@ Currently, I’m mastering the **MERN Stack** and exploring **Cloud Computing (A
 
 
 ## 🌱 Currently Working On:
-- Building **Wyde** – a tech community platform for collaboration and growth  
+- Building **BMSCE.tech** – a tech community platform for collaboration and growth  
 - Learning **AWS Cloud Fundamentals** (EC2, S3, Lambda, IAM, CloudFront)  
 - Exploring **AI Agent Projects** with MERN + AWS + LangChain  
  - Preparing for **SDE Intern roles 2025**
